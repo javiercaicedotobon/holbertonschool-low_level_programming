@@ -11,3 +11,11 @@ Write a script that compiles a C file but does not link.
 - The C file name will be saved in the variable $CFILE
 - The output file should be named the same as the C file, but with the extension .o instead of .c -
 Example: if the C file is main.c the output file shpuld be main.o
+---
+[2-Assembler](./2-Asembler)
+---
+Write a script that generates the assembly code of C code and save in an output file.
+- The C file name will be saved in the variable $CFILE
+- The output file should be named the same as the C file, but with the extension .s instead of .c
+- example: if the C file is main.c, the output should be main.s
+---
