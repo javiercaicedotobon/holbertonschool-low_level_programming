@@ -24,3 +24,10 @@ Write a script that generates the assembly code of C code and save in an output 
 ---
 - Write a script that complies a C file and creats an executable named cisfun
 - The C file name will be saved in the variable $CFILE
+---
+[4-Hello,puts](./4-Hello,puts)
+---
+- Write a C program that prints exactly "Programming is like building a multilengual puzzle" followed by a new line.
+- Use the function puts
+- you are not allowed to use printf
+- your program should end with the value 0
