@@ -21,7 +21,7 @@ putchar (i);
 else
 {
 n = i % 16;
- putchar ("%c", n)
+putchar (%c, n);
 }
 }
 putchar ('\n');
