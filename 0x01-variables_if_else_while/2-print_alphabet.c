@@ -9,7 +9,8 @@
  */
 int main(void)
 {
-for (int i=65 ;i<=90; i++)
+char i;
+for (i='a' ;i<='z'; i++)
 {
 putchar(i);
 putchar(' ');
