@@ -11,10 +11,10 @@
 int main(void)
 {
 char n;
-char i;
-for(i = '0' ; i <= '16' ; i++)
+int i;
+for(i = 0 ; i <= 16 ; i++)
 {
-if (i <= '9')
+if (i <= 9)
 {
 putchar (i);
 }
