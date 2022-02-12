@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - alphabet
  *
- * Return:always return 0
+ * Return: return 0
  */
 int main(void)
 {
@@ -14,5 +14,6 @@ for (i = 'a' ; i <= 'z' ; i++)
 {
 putchar(i);
 }
+putchar('\n');
 return (0);
 }
