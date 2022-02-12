@@ -10,19 +10,18 @@
 
 int main(void)
 {
-char n;
+unsigned char n= '0';
 int i;
-for (i = 0 ; i <= 16 ; i++)
+for (i = 0 ; i < 10 ; i++)
 {
-if (i <= 9)
-{
-putchar (i);
+putchar(a);
+a++;
 }
-else
+a = '1';
+for (i = 0; i < 6; i++)
 {
-n = i % 16;
-putchar (n);
-}
+putchar('0' + a);
+a++;
 }
 putchar ('\n');
 return (0);
