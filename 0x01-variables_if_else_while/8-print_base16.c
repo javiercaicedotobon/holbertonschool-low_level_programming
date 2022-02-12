@@ -14,7 +14,7 @@ unsigned char n = '0';
 int i;
 for (i = 0 ; i < 10 ; i++)
 {
-putchar(a);
+putchar(n);
 n++;
 }
 n = '1';
