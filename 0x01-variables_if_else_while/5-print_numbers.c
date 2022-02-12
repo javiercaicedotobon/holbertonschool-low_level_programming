@@ -5,7 +5,7 @@
 /**
  * main - Numbers
  * Description: Print numbers 0-10
- * Retunr: 0
+ * Return: 0
  */
 
 int main(void)
