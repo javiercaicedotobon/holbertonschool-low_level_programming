@@ -17,11 +17,10 @@ if (i == 'e' || i == 'q')
 i = i;
 }
 else
-{   
+{  
 putchar (i);
 }
 }
 putchar ('\n');
 return (0);
 }
-
