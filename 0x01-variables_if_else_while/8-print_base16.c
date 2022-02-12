@@ -12,7 +12,7 @@ int main(void)
 {
 char n;
 int i;
-for(i = 0 ; i <= 16 ; i++)
+for (i = 0 ; i <= 16 ; i++)
 {
 if (i <= 9)
 {
