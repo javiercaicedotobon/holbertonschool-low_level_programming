@@ -3,10 +3,11 @@
 #include <time.h>
 
 /**
- * main - number
+ * main - Numbers
  * Description: Print numbers 0-10
- *Retunr: return 0
+ * Retunr: 0
  */
+
 int main(void)
 {
 int i;
