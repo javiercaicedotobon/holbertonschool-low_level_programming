@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10
+ * print_alphabet_x10 - entry point
  *
- * Description: prints the alphabet with _putchar ten times 
+ * Description: Prints the alphabet with _putchar ten times 
  *
  * Return: void
  */
