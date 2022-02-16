@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10
  *
- * Description: print alphabet x10
+ * Description: prints the alphabet with _putchar ten times 
  *
  * Return: void
  */
