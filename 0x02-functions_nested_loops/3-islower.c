@@ -7,7 +7,7 @@
  * Return: 0 or 1
  */
 
-int _islower(int a)
+int _islower(int n)
 {
 if (n >= 'a' && n <= 'z')
 return (1);
