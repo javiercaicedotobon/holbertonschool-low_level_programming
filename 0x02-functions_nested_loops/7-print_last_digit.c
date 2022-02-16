@@ -15,5 +15,5 @@ if (a < 0)
 a = -a;
 m = '0' + a;
 _putchar(m);
-return (m);
+return (a);
 }
