@@ -16,7 +16,7 @@ printf("%i, ", n);
 if (n > 98)
 n--;
 else
-n++
+n++;
 }
 printf("98\n");
 }
